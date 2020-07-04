@@ -209,11 +209,165 @@
           null,
           null,
           1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
           null
         ]
       },
       "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/app/helpers/application_helper.rb": {
         "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/spec/features/shelters/delete_spec.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/spec/features/shelters/edit_spec.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/spec/features/shelters/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/spec/features/shelters/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/spec/models/shelter_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/app/models/shelter.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/app/models/application_record.rb": {
+        "lines": [
+          1,
           1,
           null
         ]
@@ -234,11 +388,45 @@
           null
         ]
       },
-      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/app/controllers/status_controller.rb": {
+      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/app/controllers/shelters_controller.rb": {
         "lines": [
           1,
           1,
+          4,
+          null,
+          null,
           1,
+          4,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          2,
           null,
           null
         ]
@@ -249,8 +437,17 @@
           1,
           null
         ]
+      },
+      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/app/controllers/status_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1593716229
+    "timestamp": 1593887795
   }
 }
