@@ -409,6 +409,7 @@
         "lines": [
           1,
           1,
+          1,
           null
         ]
       },
@@ -427,11 +428,15 @@
           1,
           2,
           null,
+          1,
+          2,
+          null,
           null
         ]
       },
       "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/app/models/shelter.rb": {
         "lines": [
+          1,
           1,
           1,
           null
@@ -522,6 +527,6 @@
         ]
       }
     },
-    "timestamp": 1593909514
+    "timestamp": 1593913604
   }
 }
