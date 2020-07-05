@@ -21,10 +21,9 @@ RSpec.describe "Shelter Daemons Index" do
     expect(page).to have_content(daemon_2.image)
     expect(page).to have_content(daemon_2.name)
     expect(page).to have_content(daemon_2.approximate_age)
-    expect(page).to have_content(daemon_2.sex)
-
+    expect(page).to have_content(daemon_3.sex)
     expect(page).to have_content("Lilith")
-    expect(page).to_not have_content(daemon_1.name)
 
+    expect(page).to_not have_content(daemon_1.name)
   end
 end
