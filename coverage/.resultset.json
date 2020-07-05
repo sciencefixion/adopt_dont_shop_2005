@@ -207,7 +207,8 @@
           1,
           null,
           null,
-          null,
+          1,
+          1,
           1,
           1,
           1,
@@ -225,7 +226,53 @@
           null
         ]
       },
-      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/spec/features/shelters/delete_spec.rb": {
+      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/spec/features/shelters/create_spec.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/spec/features/shelters/destroy_spec.rb": {
         "lines": [
           1,
           null,
@@ -347,6 +394,31 @@
           null
         ]
       },
+      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/spec/models/daemon_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/app/models/daemon.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
       "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/spec/models/shelter_spec.rb": {
         "lines": [
           1,
@@ -359,13 +431,6 @@
         ]
       },
       "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/app/models/shelter.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
-      },
-      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/app/models/application_record.rb": {
         "lines": [
           1,
           1,
@@ -385,6 +450,22 @@
           1,
           null,
           null,
+          null
+        ]
+      },
+      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/app/controllers/daemons_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
           null
         ]
       },
@@ -431,13 +512,6 @@
           null
         ]
       },
-      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/app/controllers/application_controller.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
-      },
       "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/app/controllers/status_controller.rb": {
         "lines": [
           1,
@@ -448,6 +522,6 @@
         ]
       }
     },
-    "timestamp": 1593887795
+    "timestamp": 1593909514
   }
 }
