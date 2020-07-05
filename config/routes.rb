@@ -12,4 +12,5 @@ Rails.application.routes.draw do
   delete '/shelters/:id', to: 'shelters#destroy'
   get '/daemons', to: 'daemons#index'
   get 'shelters/:shelter_id/daemons', to: 'shelter_daemons#index'
+  get 'daemons/:id', to: 'daemons#show'
 end

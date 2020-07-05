@@ -1,0 +1,10 @@
+<h1><%= @daemon.name %></h1>
+
+<p><%= @daemon.image %></p>
+<p>Description: <%= @daemon.description %></p>
+<p>Approximate Age: <%= @daemon.approximate_age %></p>
+<p>Sex: <%= @daemon.sex %></p>
+<p>Adoptable/Pending Adoption Status: <%= @daemon.adoptable %></p>
+
+
+<p><%= link_to "Daemon Index", "/daemons", method: :index %></p>

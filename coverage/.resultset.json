@@ -218,12 +218,44 @@
           1,
           1,
           1,
+          1,
           null
         ]
       },
       "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/spec/features/daemons/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
           null
         ]
       },
@@ -498,6 +530,10 @@
           1,
           1,
           null,
+          null,
+          1,
+          1,
+          null,
           null
         ]
       },
@@ -573,6 +609,6 @@
         ]
       }
     },
-    "timestamp": 1593974783
+    "timestamp": 1593979664
   }
 }
