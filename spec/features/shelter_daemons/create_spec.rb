@@ -1,6 +1,6 @@
 require "rails_helper"
 # User Story 10, Shelter Pet Creation
-#
+
 # As a visitor
 # When I visit a Shelter Pets Index page
 # Then I see a link to add a new adoptable pet for that shelter "Create Pet"
