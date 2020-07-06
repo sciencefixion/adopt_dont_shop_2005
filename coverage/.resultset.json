@@ -219,6 +219,8 @@
           1,
           1,
           1,
+          1,
+          1,
           null
         ]
       },
@@ -254,6 +256,91 @@
           1,
           1,
           1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/spec/features/shelter_daemons/create_spec.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/spec/features/shelter_daemons/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
           1,
           null,
           null
@@ -400,39 +487,6 @@
           null
         ]
       },
-      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/spec/features/shelters/shelter_daemons_index_spec.rb": {
-        "lines": [
-          1,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          1,
-          null,
-          1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          null,
-          1,
-          null,
-          null
-        ]
-      },
       "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/spec/features/shelters/show_spec.rb": {
         "lines": [
           1,
@@ -544,6 +598,34 @@
           null
         ]
       },
+      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/app/controllers/shelter_daemons_controller.rb": {
+        "lines": [
+          1,
+          1,
+          3,
+          3,
+          6,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/app/controllers/shelters_controller.rb": {
         "lines": [
           1,
@@ -587,18 +669,6 @@
           null
         ]
       },
-      "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/app/controllers/shelter_daemons_controller.rb": {
-        "lines": [
-          1,
-          1,
-          1,
-          3,
-          null,
-          1,
-          null,
-          null
-        ]
-      },
       "/Users/unit01/turing/2module/projects/1st/adopt_dont_shop_2005/app/controllers/status_controller.rb": {
         "lines": [
           1,
@@ -609,6 +679,6 @@
         ]
       }
     },
-    "timestamp": 1593979664
+    "timestamp": 1593995124
   }
 }

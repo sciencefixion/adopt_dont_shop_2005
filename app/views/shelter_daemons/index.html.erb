@@ -3,11 +3,12 @@
 <% @shelter_daemons.each do |daemon| %>
 <p><%= daemon.image %><br>
 <a href="/daemons/<%= daemon.id %>"><%= daemon.name %></a><br>
-<%= daemon.approximate_age %><br>
-<%= daemon.sex %></p>
+<p><%= daemon.description %><br>
+Approximate Age: <%= daemon.approximate_age %><br>
+Sex: <%= daemon.sex %></p>
 <% end %>
 
 <ul>
-  <li><a href="/<%= @shelter.id %>/daemons/new">Create Daemon</a></li>
+  <li><a href="/shelters/<%= @shelter.id %>/daemons/new">Create Daemon</a></li>
   <li><a href="/">Home</a></li>
 </ul>
