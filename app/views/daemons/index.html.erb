@@ -1,0 +1,12 @@
+<h1>All Daemons</h1>
+
+<% @daemons.each do |daemon| %>
+<p><a href="/daemons/<%= daemon.id %>"><%= daemon.name %></a></p>
+<p><%= daemon.image %></p>
+<p><%= daemon.approximate_age %>,</p><p><%= daemon.sex %></p><p><%= daemon.current_shelter %></p>
+<% end %>
+
+<ul>
+  <li><a href="/daemons/new">New Daemon</a></li>
+  <li><a href="/">Home</a></li>
+</ul>

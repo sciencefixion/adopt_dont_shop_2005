@@ -10,10 +10,24 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20200702192338) do
+ActiveRecord::Schema.define(version: 20200705193252) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "daemons", force: :cascade do |t|
+    t.string "image"
+    t.string "name"
+    t.string "approximate_age"
+    t.string "sex"
+    t.string "current_shelter"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.bigint "shelter_id"
+    t.string "description"
+    t.string "adoptable"
+    t.index ["shelter_id"], name: "index_daemons_on_shelter_id"
+  end
 
   create_table "shelters", force: :cascade do |t|
     t.string "name"
@@ -25,4 +39,5 @@ ActiveRecord::Schema.define(version: 20200702192338) do
     t.datetime "updated_at", null: false
   end
 
+  add_foreign_key "daemons", "shelters"
 end
